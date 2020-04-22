@@ -6,3 +6,4 @@ Zip code identification using rnn
 
 效果如图：
 
+![image](https://github.com/Sharpiless/Zip-code-identification/blob/master/FQBQ%25WC%5DOT85(CW)J494B6A.png)
